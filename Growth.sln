@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrowthAPI", "GrowthAPI\GrowthAPI.csproj", "{97A2F497-EEEC-43B4-AF54-B9A5418FFC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrowthTest", "GrowthTest\GrowthTest.csproj", "{21AEBCF7-7A43-4020-97C8-E1E497F3481B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A2F497-EEEC-43B4-AF54-B9A5418FFC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A2F497-EEEC-43B4-AF54-B9A5418FFC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A2F497-EEEC-43B4-AF54-B9A5418FFC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A2F497-EEEC-43B4-AF54-B9A5418FFC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AEBCF7-7A43-4020-97C8-E1E497F3481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AEBCF7-7A43-4020-97C8-E1E497F3481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AEBCF7-7A43-4020-97C8-E1E497F3481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AEBCF7-7A43-4020-97C8-E1E497F3481B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A565C7E3-D6BE-4FC6-8177-644876E0D6E4}
+	EndGlobalSection
+EndGlobal
